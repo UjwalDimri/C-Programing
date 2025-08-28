@@ -6,14 +6,14 @@ int main(){
     scanf("%d %d",&a,&b);
     if(a>=b){
         if(a%2==0){
-            printf("%d %d",a,(a-b));
+            printf("%d %d",a,a-b);
         }
     }    
     if(b>a){
         if(b%2==0){
-            printf("%d %d",b,(b-a));
+            printf("%d %d",b,b-a);
         }
     }
     
-  return 0;
+    return 0;
 }
