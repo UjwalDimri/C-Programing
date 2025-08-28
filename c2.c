@@ -4,15 +4,15 @@ int main(){
     char ch;
     scanf("%c",&ch);
 
-    if(ch=='A'&&ch=='Z'){
+    if((ch=='A')&&(ch=='Z'))
         ch+=32;
         printf("%c",ch);
 
-    }
-    if(ch>='a'&&ch<='z'){
+    
+    if((ch>='a')&&(ch<='z'))
         ch=-32;
         printf("%c",ch);
 
-    }
-return 0;
+    
+    return 0;
 }
