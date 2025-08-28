@@ -3,7 +3,7 @@
 int main() {
     printf("enter your no. of calls");
     int nc;
-    scanf("%d200",&nc);
+    scanf("%d",&nc);
 
     if(nc<=75){
       int bill = nc*0;
