@@ -5,6 +5,7 @@ int main(){
         sum+=1/i;
     }
     printf("sum is : %d",sum);
+    return 0;
 }
 
 
