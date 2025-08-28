@@ -34,5 +34,5 @@ int main() {
       int bill_4 = bnc*4+525;
       printf("your bill is : %d rs",bill_4);
     }
-return 0;
+  return 0;
 }
