@@ -6,12 +6,12 @@ int main(){
 
     if((ch=='A')&&(ch=='Z'))
         ch+=32;
-        printf("%c",ch);
+        printf("Uppercase : %c",ch);
 
     
     if((ch>='a')&&(ch<='z'))
         ch=-32;
-        printf("%c",ch);
+        printf("Lower case : %c",ch);
 
     
     return 0;
