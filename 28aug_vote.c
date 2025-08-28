@@ -5,7 +5,7 @@ int main (){
 
     printf("Enter 1 for sam \n Enter 2 for ram \n Enter 3 for shiv ");
     scanf("%d",&vote);
-    switch(n){
+    switch(vote){
         case 1 :
                printf("you voted for Sam :");
                 a=a+1;
