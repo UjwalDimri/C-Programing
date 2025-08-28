@@ -13,6 +13,6 @@ float ct= bp*0.1;
 float netsalary= gross_salary-lr-ct;
 printf("your net salary : %f",netsalary);
 printf("your gross salary : %f",gross_salary);
-return0;
+return 0;
 
 }
