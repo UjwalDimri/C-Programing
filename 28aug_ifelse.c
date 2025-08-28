@@ -22,5 +22,6 @@ int main(){
     else {
         printf ("enter four diff nos.");
     }
+    
     return 0;
 }
