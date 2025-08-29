@@ -7,6 +7,7 @@ int main()
     R=80;
     SI=P*R*T/100;
     printf("Simple Intrest is :%d",SI);
+    
     return 0;
 }
      
