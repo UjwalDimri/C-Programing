@@ -15,5 +15,6 @@ int main() {
             printf("%d is not prime\n", i);
         }
     }
+    
     return 0;
 }
