@@ -5,7 +5,7 @@
 
 int main() {
     FILE *ptr;
-    ptr = fopen("C:\\Users\\hp\\Documents\\UPES\\C\\Codes\\30-10-25 codes\\num.txt", "r");
+    ptr = fopen("txt1.txt", "r");
 
     if (ptr == NULL) {
         printf("File does not exist.\n");
