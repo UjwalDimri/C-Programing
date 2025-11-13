@@ -1,0 +1,11 @@
+Train No | Train Name                | Departure      | Destination
+-------------------------------------------------------------------
+12001    | Shatabdi Express          | Dehradun       | New Delhi
+12002    | Dehradun Jan Shatabdi     | New Delhi      | Dehradun
+12205    | Nanda Devi Express        | Dehradun       | New Delhi
+12206    | Nanda Devi Express        | New Delhi      | Dehradun
+12401    | Magadh Express            | Islampur       | New Delhi
+12402    | Magadh Express            | New Delhi      | Islampur
+12627    | Karnataka Express         | Bangalore      | New Delhi
+12628    | Karnataka Express         | New Delhi      | Bangalore
+12951    | Mumbai    Express         | Dehradun       | Mumbai

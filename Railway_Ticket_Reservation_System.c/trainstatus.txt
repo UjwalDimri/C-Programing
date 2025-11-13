@@ -1,0 +1,11 @@
+Train No | Train Name                | From          | To            | Current Status
+-----------------------------------------------------------------------------------
+12001 | Shatabdi Express          | Dehradun       | New Delhi      | Arrived at Haridwar Junction
+12002 | Dehradun Jan Shatabdi     | New Delhi      | Dehradun       | Departed from Meerut City
+12205 | Nanda Devi Express        | Dehradun       | New Delhi      | Running 15 mins late near Roorkee
+12206 | Nanda Devi Express        | New Delhi      | Dehradun       | On Time, approaching Saharanpur
+12401 | Magadh Express            | Islampur       | New Delhi      | Departed from Patna Junction
+12402 | Magadh Express            | New Delhi      | Islampur       | Arrived at Gaya Junction
+12627 | Karnataka Express         | Bangalore      | New Delhi      | Running on time near Nagpur
+12628 | Karnataka Express         | New Delhi      | Bangalore      | Delayed by 10 mins near Jhansi
+12951 | Mumbai Express            | Dehradun       | Mumbai         | Departed from Delhi, next halt Kota
