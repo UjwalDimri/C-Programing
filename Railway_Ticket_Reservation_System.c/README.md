@@ -26,4 +26,32 @@ The system supports **ticket booking, PNR generation, RAC/Waiting management, fa
 - Automatically shifts RAC passenger → Confirmed  
 
 ### 📄 Passenger List
-Displays the full list of passen
+Displays the full list of passengers and their details.
+
+### 📍 Where Is My Train?
+Reads from `trainstatus.txt` to show live train status.
+
+### 📊 Ticket Chart
+Shows real-time:
+- Confirmed count  
+- RAC count  
+- Waiting list count  
+
+### 🔐 Simple Admin Login
+Access controlled using a password (`12345678` by default).
+
+---
+
+## 🧩 Tech Stack & Concepts
+
+| Component | Description |
+|----------|-------------|
+| **Language** | C |
+| **Data Storage** | Text files (`.txt`) |
+| **Paradigm** | Procedural programming |
+| **Concepts Used** | File handling, structures, string functions, modular code, menu-driven interface |
+
+---
+
+## 📁 File Structure
+
